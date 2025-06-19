@@ -25,9 +25,7 @@ This project is a Qt-based MDI (Multiple Document Interface) application that in
 
     ♻️ Resizes and resets layout on window resize
 
-🖼️ Screenshots
 
-(Include screenshots here if available)
 🚀 Getting Started
 Prerequisites
 
